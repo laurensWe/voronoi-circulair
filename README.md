@@ -1,0 +1,1 @@
+Projectje om met LLMs een scriptje te maken voor het maken van een vonoroi diagram
